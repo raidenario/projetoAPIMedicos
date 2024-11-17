@@ -28,5 +28,6 @@ This project is a RESTful API for a hospital management system built using **Jav
 - **JWT Authentication**: Secure the API using token-based authentication.
 - **API Documentation**: Auto-generated with Springdoc OpenAPI, accessible via Swagger UI.
 
-Feito com o aprendizado da esolca Alura
+Feito com o aprendizado da esolca Alura /
+
 Made with Alura School Support
